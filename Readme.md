@@ -17,13 +17,13 @@ This assignment covers reading, writing and appending data to files using Python
 Make sure Python 3 is installed. Open the terminal in the assignment folder and run each file separately.
 
 ```bash
-python task_1.py
-python task_2.py
-python task_3.py
-python task_4.py
-python task_5.py
-python task_6.py
-python task_7.py
+python Task_1.py
+python Task_2.py
+python Task_3.py
+python Task_4.py
+python Task_5.py
+python Task_6.py
+python Task_7.py
 ```
 
 Tasks 2–4 use `sales_data.txt`, which is created by Task 1. Run Task 1 first.
